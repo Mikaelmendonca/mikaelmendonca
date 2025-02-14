@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Mikael Mendonça  
 
-<!--
-**Mikaelmendonca/mikaelmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor iOS em formação | Interesse em QA e automação de testes**  
+📚 Último semestre de Análise e Desenvolvimento de Sistemas  
+🚀 Explorando **Swift, SwiftUI, UIKit** e **testes automatizados com XCTest**  
+💡 Conhecimento em **JavaScript, bancos de dados SQL/MongoDB, versionamento com Git e desenvolvimento full stack**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Swift, JavaScript  
+- **Desenvolvimento Mobile:** SwiftUI, UIKit  
+- **Banco de Dados:** SQL, MongoDB  
+- **Testes e Qualidade:** Testes manuais, XCTest  
+- **Versionamento:** Git e GitHub  
+- **Outros:** HTML, CSS, metodologias ágeis  
